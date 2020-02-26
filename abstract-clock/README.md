@@ -1,3 +1,3 @@
-#Abstract Clock 
+# Abstract Clock 
 
-![](Images/abstract-clock)
+![](images/abstract-clock.gif)
