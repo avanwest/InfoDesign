@@ -1,0 +1,32 @@
+
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.hand {
+   width: 0;
+   height: 0;
+   top: 50px;
+   border-left: 50px solid black;
+   border-right: 50px solid black;
+   border-bottom: 100px solid red; 
+   text-align: center;
+   margin: auto;  
+   position: relative;
+   transform-origin: center;
+   box-shadow: 0px 0px 10px black;
+}
+
+
+.box {
+    height: 200px;
+    width: 200px;
+    box-shadow: 5px 10px 14px black;  
+}
+
+
+
