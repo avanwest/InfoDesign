@@ -1,0 +1,141 @@
+
+#map {
+    height: 500px;
+    /* width: 50%; */
+    /* float: right; */
+}
+     
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nycmesh {
+    height: 500px;
+    width: 100%;
+    /* color: white; */
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#mesh-mission-statement {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 20px;
+
+}
+
+#overview {
+    background-color: white;
+    color: black;
+}
+
+.overview-title {
+    margin-left: 60px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.overview-text {
+    width: 600px;
+    height: 100%;
+    margin-left: 60px;
+    margin-top: 60px;
+    font-size: 18px;
+}
+
+.ISP-title {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+#why {
+    background-color: black;
+    color: white;
+    padding: 20px 0px 70px 0px;
+    width: 100%;
+    margin: 0px;
+}
+
+.why-title {
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 30px;
+}
+
+
+
+ul {
+    margin-top: 50px;
+    margin-left:50px;
+}
+
+li {
+    font-size: 22px;
+}
+
+.speed-charts {
+    height: 680px;
+}
+
+.mesh-maps {
+    background-color: white;
+    color: black;
+    height: 850px;
+    
+}
+
+h3 {
+    /* margin-left: 120px; */
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.dot-text {
+    float: right;
+    padding: 5px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.mesh-title {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mesh-maps-text-parent {
+    background-color: white;
+    height: 300px;
+    text-align: left;
+    color: black;
+}
+
+.mesh-maps-text {
+    width: 760px;
+    height: 100%;
+    margin-right: 75%;
+    margin-left: 25%;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.mesh-logo {
+    display: block;
+    margin: 0 auto;
+}
